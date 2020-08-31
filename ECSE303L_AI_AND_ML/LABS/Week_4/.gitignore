@@ -1,0 +1,6 @@
+# Jupyter Notebook
+**/*.ipynb_checkpoints/
+.ipynb_checkpoints/task_2_decision_tree_viz-checkpoint.ipynb
+
+# Logs
+*.log
